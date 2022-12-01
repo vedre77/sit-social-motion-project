@@ -1,7 +1,7 @@
 SIT academy 1 week group project of creating a frontend for a social network app. My colleagues on this project were Alexander Honegger and Kitti Horvath.
 Projects that followed this one involved deployment and backend tasks, but this one was worth revisiting as well, especially with regards to redux storing of fetch request and code tidiness and arrangement.
 
-![signup](https://user-images.githubusercontent.com/98163212/205026369-3e4babe3-f89a-4ab8-a8b9-52228f9081c8.jpg)
+![signup](https://user-images.githubusercontent.com/98163212/205027448-9c2206ad-d1a9-4d3e-9b77-229fe764e249.jpg)
 
 ![home](https://user-images.githubusercontent.com/98163212/205026387-fa19722e-d477-4d03-8e99-b4e5d4b7be5c.jpg)
 
